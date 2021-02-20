@@ -48,15 +48,18 @@ namespace HelloWorldProject {
             int[] assessmentScores = new int[2];
             assessmentScores[0] = 120;
             assessmentScores[1] = 95;
+           
+            
+            
             Console.WriteLine($"index 0 is {assessmentScores[0]} and index 1 is {assessmentScores[1]}");
         }
 
-        var subjects = new string [5];
-            subjects [0] = "Git/Github"
-            subjects [1] = "SQL"
-            subjects [2] = "C#"
-            subjects [3] = "Javascript"
-            subjects [4] = "Angular";
+
+
+
+
+
+        
         
         
 
